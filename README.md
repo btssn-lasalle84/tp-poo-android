@@ -13,9 +13,9 @@
   - [Tests unitaires](#tests-unitaires)
 
 
-Les objectifs de ce TP sont de s’initier à la programmation Dart en transférant ses connaissances de la programmation orientée objet.
+Les objectifs de ce TP sont de s’initier à la programmation Android en transférant ses connaissances de la programmation orientée objet.
 
-> Pour les enseignants, ceci est un "petit" devoir pour [Github Classroom](https://btssn-lasalle84.github.io/guides-developpement-logiciel/guide-classroom.html). Il montre l'utilisation des tests unitaires en Dart, la notation automatique et l'insertion d'un badge pour l'affichage de la note.
+> Pour les enseignants, ceci est un "petit" devoir pour [Github Classroom](https://btssn-lasalle84.github.io/guides-developpement-logiciel/guide-classroom.html). Il montre l'utilisation des tests unitaires en Android, la notation automatique et l'insertion d'un badge pour l'affichage de la note.
 
 ## Android
 

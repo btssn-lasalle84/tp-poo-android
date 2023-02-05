@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "TestExercice1",
+      "setup": "sh .github/setup_emulators_linux.sh",
+      "run": "cd ApplicationCompte && ./gradlew :app:testDebugUnitTest --tests com.lasalle.applicationcompte.TestCompteAccesseurs",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "TestCompte",
+      "setup": "sh .github/setup_emulators_linux.sh",
+      "run": "cd ApplicationCompte && ./gradlew :app:testDebugUnitTest --tests com.lasalle.applicationcompte.TestCompte",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
